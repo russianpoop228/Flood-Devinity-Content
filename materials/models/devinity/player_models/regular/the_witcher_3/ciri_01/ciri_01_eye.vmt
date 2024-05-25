@@ -1,0 +1,9 @@
+"VertexLitGeneric" {
+	$basetexture "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_eye"
+	$bumpmap "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_eye_normal"
+
+	$phong "1"
+	$phongboost "64"
+	$phongexponent  "40"
+	$phongfresnelranges "[0.04 0.15 1.0]"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_cloth"
+	$bumpmap "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_cloth_normal"
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.001 .001 .001]"
+	$phong 1
+	$phongexponent 5
+	$phongboost 1 // 15
+	$phongfresnelranges "[.01 0.5 1.0]"
+}

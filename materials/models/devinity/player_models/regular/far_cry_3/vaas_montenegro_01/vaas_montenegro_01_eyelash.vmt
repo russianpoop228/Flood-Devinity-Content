@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\far_cry_3\vaas_montenegro_01\vaas_montenegro_01_eyelash"
+
+
+$translucent 1
+	$nocull 1
+
+}

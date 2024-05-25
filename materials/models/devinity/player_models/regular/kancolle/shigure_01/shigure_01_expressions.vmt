@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\kancolle\shigure_01\shigure_01_expressions"
+
+	"$translucent" "1"
+
+	"$nodecal" "1"
+	"$halflambert" "1"
+
+
+
+}

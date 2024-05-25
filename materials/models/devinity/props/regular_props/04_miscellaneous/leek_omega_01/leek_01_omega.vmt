@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models\devinity\props\regular_props\04_miscellaneous\leek_01\leek_01"
+	$bumpmap "models\devinity\props\regular_props\04_miscellaneous\leek_01\leek_01_normal"
+}

@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/splinks/KF2/characters/Briar/Briar_Cosmetic01_D"
+	"$bumpmap" "models/splinks/KF2/characters/Briar/Briar_Cosmetic01_N"
+
+
+	"$phongexponenttexture" 	"models/splinks/KF2/characters/Briar/Briar_Cosmetic01_s"
+	$PhongAlbedoTint 1
+
+	"$PhongWarpTexture" "models/splinks/KF2/Shared/phongwarp_metal"
+
+	$surfaceprop metal
+
+	$halflambert 1
+	$diffuseexp 1.5
+
+	"$normalmapalphaphongmask"     "1"
+
+	"$phong" "1"
+	"$phongexponent" "26"
+	"$phongboost"	"1"
+	"$phongfresnelranges"        "[0.02 6 6]"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10.5"
+	"$rimlightboost" "1.5"
+	"$rimmask" 1
+}

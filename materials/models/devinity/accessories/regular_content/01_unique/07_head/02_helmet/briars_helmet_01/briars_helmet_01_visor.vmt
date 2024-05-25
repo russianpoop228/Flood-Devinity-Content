@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\briars_helmet_01\briars_helmet_01"
+	"$bumpmap" "models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\briars_helmet_01\briars_helmet_01_normal"
+
+	"$blendtintbybasealpha" "0" // alpha channel of $basetexture: color mask.
+	"$phongexponenttexture" 	"models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\briars_helmet_01\briars_helmet_01_s"
+	$PhongAlbedoTint 1
+
+	"$PhongWarpTexture" "models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\briars_helmet_01\phongwarp_metal"
+
+$surfaceprop glass
+
+$halflambert 1
+$diffuseexp 1.5
+
+	$translucent "1"
+
+	"$normalmapalphaphongmask"     "1"
+
+ 	"$phong" "1"
+	"$phongexponent" "26"
+	"$phongboost"	"1"
+	"$phongfresnelranges"        "[0.3 9 6]"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10.5"
+	"$rimlightboost" "1.5"
+	"$rimmask" 1
+}

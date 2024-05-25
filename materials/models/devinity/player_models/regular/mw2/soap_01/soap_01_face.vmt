@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw2\soap_01\soap_01_face"
+	"$bumpmap" "models\devinity\player_models\regular\mw2\soap_01\soap_01_face_normal"
+ 	"$phong" "1"
+	"$phongexponent" "4.8"
+	"$phongboost"	"0.01"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

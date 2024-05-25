@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_feathers"
+	$bumpmap "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_feathers_normal"
+	$translucent 1
+	$nocull 1
+	$phong 1
+	$phongexponent 8
+	$phongboost 1
+	$phongfresnelranges "[.01 0.5 1.0]"
+}

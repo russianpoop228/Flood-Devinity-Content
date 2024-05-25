@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\kancolle\shigure_01\shigure_01_gear"
+	"$bumpmap" "models\devinity\player_models\regular\kancolle\shigure_01\normal"
+
+	//"$nocull" "1"
+	//"$lightwarptexture" "models\devinity\player_models\regular\kancolle\shigure_01\clothwarp"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.5"
+	"$halflambert" "1"
+
+
+}

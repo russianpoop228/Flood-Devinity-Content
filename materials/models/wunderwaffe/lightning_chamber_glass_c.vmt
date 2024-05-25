@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wunderwaffe/lightning_chamber_glass_c"
+                "$alphatest" "1"
+                "$nocull" "1"
+	"$transculent" "1"
+}

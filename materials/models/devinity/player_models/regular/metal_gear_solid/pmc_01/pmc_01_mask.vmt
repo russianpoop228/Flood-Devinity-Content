@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\devinity\player_models\regular\metal_gear_solid\pmc_01\pmc_01_mask"
+
+	"$model" 1
+	"$surfaceprop" "flesh"
+	"$halflambert" 1
+}

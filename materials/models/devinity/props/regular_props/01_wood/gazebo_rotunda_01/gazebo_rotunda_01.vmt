@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\01_wood\gazebo_rotunda_01\gazebo_rotunda_01"
+	"$surfaceprop" "wood"
+	"%keywords" "cstrike"
+}

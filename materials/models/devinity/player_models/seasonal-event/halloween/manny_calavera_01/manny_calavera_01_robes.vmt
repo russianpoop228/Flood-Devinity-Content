@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\seasonal-event\halloween\manny_calavera_01\manny_calavera_01_robes"
+	"$halflambert" 1
+	"$bumpmap" "models\devinity\player_models\seasonal-event\halloween\manny_calavera_01\manny_calavera_01_robes_normal"
+    "$alphatest" 1
+    "$model" 1
+    "$nocull" 1
+}

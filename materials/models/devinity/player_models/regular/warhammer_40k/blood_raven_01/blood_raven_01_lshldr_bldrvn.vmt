@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\warhammer_40k\blood_raven_01\blood_raven_01_lshldr_bldrvn"
+	"$bumpmap" "models\devinity\player_models\regular\warhammer_40k\blood_raven_01\blood_raven_01_lshldr_norm"
+
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.25"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight" "1"											
+	"$rimlightexponent" "4"										
+	"$rimlightboost" ".25"
+}

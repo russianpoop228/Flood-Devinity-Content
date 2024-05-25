@@ -1,0 +1,7 @@
+"eyes"
+{
+        "$basetexture" "models\devinity\player_models\regular\ssbb\lucario_01\eyeball_r"
+	"$iris" "models\devinity\player_models\regular\ssbb\lucario_01\lucario_01_irisr"
+	"$halflambert" 1
+}
+

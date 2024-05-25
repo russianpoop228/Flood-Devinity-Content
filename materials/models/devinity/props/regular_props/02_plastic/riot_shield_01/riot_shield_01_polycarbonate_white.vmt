@@ -1,0 +1,20 @@
+"vertexlitgeneric"
+{
+	"$additive" 1
+
+	"$baseTexture" "models\devinity\props\regular_props\02_plastic\riot_shield_01\riot_shield_01_plate_white"
+
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[ 0.15 0.15 0.15 ]"
+	"$model" 1
+	"$halflambert" 1
+	"$bumpmap" "models\devinity\props\regular_props\02_plastic\riot_shield_01\riot_shield_01_normal"
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "0.4"	
+	"$phongfresnelranges"	"[ 1 6 15 ]"
+}
+

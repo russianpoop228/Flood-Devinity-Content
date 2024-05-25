@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\devinity\props\regular_props\01_wood\confessional_01\confessional_01"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\props\regular_props\01_wood\confessional_01\confessional_01_ref"
+
+
+	"$surfaceprop" "brick"
+	"$detail" 				"detail\noise_detail_01"
+	"$detailscale" 			"[ 6 6 ]"
+	"$detailblendfactor" 	"0.3"
+
+}

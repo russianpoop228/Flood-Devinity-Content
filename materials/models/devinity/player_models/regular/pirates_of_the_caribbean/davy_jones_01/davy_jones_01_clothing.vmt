@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\pirates_of_the_caribbean\davy_jones_01\davy_jones_01_clothing"
+	"$bumpmap" "models\devinity\player_models\regular\pirates_of_the_caribbean\davy_jones_01\davy_jones_01_clothing_normal"
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\tf2\sniper_01\sniper_01_huntsman"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models\devinity\player_models\regular\tf2\sniper_01\weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "1"
+
+	"$glowcolor" "1"
+}

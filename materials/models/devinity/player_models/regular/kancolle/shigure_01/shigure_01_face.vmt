@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\kancolle\shigure_01\shigure_01_face"
+	"$bumpmap" "models\devinity\player_models\regular\kancolle\shigure_01\normal"
+
+	"$lightwarptexture" "models\devinity\player_models\regular\kancolle\shigure_01\clothwarp"
+	"$phong" "1"
+	"$phongboost"	"0.0"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+
+	"$nodecal" "1"
+	"$halflambert" "1"
+
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+}

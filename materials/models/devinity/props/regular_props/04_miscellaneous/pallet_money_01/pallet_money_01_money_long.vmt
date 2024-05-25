@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\props\regular_props\04_miscellaneous\pallet_money_01\pallet_money_01_money_long"
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+}

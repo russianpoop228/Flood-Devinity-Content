@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "bms\models\weapons\v_glock/v_glock"
+	"$bumpmap" "bms\models\weapons\v_glock/v_glock_normal"
+
+	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.02 .02 .02]"
+	"$nocull" "1"
+	
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "0.1"
+	"$phongfresnelranges"	"[5 5 5]"
+
+	
+
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "0.125"
+
+	"$selfillum" "1"
+	"$selfillumtint" "[2 2 2]"
+}

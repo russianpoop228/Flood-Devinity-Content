@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\02_set\04_rabbit\rabbit_01_fur"
+	"$bumpmap" "models\devinity\accessories\regular_content\02_set\04_rabbit\rabbit_01_fur_normal"
+	"$halflambert" "1"
+	"$alphatest" "1"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

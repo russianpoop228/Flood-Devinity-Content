@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw1\ghillie_01\jessev92\ghillie_01_body"
+
+        "$bumpmap" "models\devinity\player_models\regular\mw1\ghillie_01\jessev92\ghillie_01_body_normal"
+}

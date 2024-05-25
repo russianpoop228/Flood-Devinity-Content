@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+
+	"$model"		"1"
+
+
+	"$baseTexture" 		"models\devinity\props\regular_props\04_miscellaneous\taxidermy_elephant_01\taxidermy_elephant_01_tusks"
+	"$translucent"		"0"
+	"$alphatest" 		"0"
+
+	"$bumpmap" 		"models\devinity\props\regular_props\04_miscellaneous\taxidermy_elephant_01\taxidermy_elephant_01_normal"
+
+	"$phong" "1"
+	//"$phongexponent" "32"
+	"$phongexponenttexture" "models\devinity\props\regular_props\04_miscellaneous\taxidermy_elephant_01\taxidermy_elephant_01_specular"
+	"$phongalbedotint" "1"
+	"$phongboost" "8" 
+	"$phongfresnelranges"	"[.2 1 3]"
+
+	"$blendtintbybasealpha" 1
+}

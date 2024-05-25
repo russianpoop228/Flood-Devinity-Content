@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\devinity\player_models\regular\metal_gear_solid\pmc_01\pmc_01_torso_equipment4"
+
+	 "$envmap" 			"env_cubemap"
+	"$envmaptint"			"[ 0.36 0.36 0.36 ]"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapsaturation" 0.7
+	"$envmapcontrast" 0.3
+
+	"$model" 1
+	"$surfaceprop" "Plastic"
+	"$halflambert" 1
+}

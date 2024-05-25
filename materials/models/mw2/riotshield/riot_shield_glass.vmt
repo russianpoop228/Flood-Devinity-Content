@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$additive" 1
+
+	"$baseTexture" "models\MW2\RiotShield\riot_shield"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[ 0.15 0.15 0.15 ]"
+	"$model" 1
+	"$halflambert" 1
+	"$bumpmap" "models\MW2\RiotShield\Riot_shield_n"
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "0.4"	
+	"$phongfresnelranges"	"[ 1 6 15 ]"
+}
+

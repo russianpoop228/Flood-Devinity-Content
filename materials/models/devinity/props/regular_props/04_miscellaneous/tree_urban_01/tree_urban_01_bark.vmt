@@ -1,0 +1,14 @@
+patch
+{
+include "materials/models/devinity/props/regular_props/04_miscellaneous/tree_urban_01/arbor_include.vmt"
+insert
+{
+$baseTexture "models\devinity\props\regular_props\04_miscellaneous\tree_urban_01\tree_urban_01_bark"
+
+"%keywords" l4d2
+}
+
+"$blendtintbybasealpha" "1" 
+"$blendtintcoloroverbase" "0"
+
+}

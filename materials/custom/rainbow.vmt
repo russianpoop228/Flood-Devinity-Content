@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "custom/rainbow"
+	"$envmap" "custom/rainbowcube"
+	"$model" 1
+
+	"$envmaptint" "[.7 .7 .7]"
+}

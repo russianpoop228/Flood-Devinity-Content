@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\devinity\props\regular_props\04_miscellaneous\taxidermy_deer_01\taxidermy_deer_01"
+
+"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+}

@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$baseTexture "models\devinity\props\regular_props\02_plastic\bin_waste_yard_01\bin_waste_yard_01"
+$envmap env_cubemap
+$envmapmask "models\devinity\props\regular_props\02_plastic\bin_waste_yard_01\bin_waste_yard_01_ref"
+$envmaptint "[1 1 1]"
+vertexlitgeneric_HDR_dx9
+{
+$envmaptint "[.8 .8 .8]"
+}
+}

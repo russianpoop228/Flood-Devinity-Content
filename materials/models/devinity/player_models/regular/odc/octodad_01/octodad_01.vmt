@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\odc\octodad_01\octodad_01"
+ 	"$bumpmap"     "models\devinity\player_models\regular\odc\octodad_01\octodad_01_normal"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "0.5"
+	"$phongfresnelranges"	"[.1 1 10]"
+	$lightwarptexture "models\devinity\player_models\regular\odc\octodad_01\octodad_01_lightwarp"
+}

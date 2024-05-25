@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Replic/replican_02/head"
+        "$bumpmap" "models/Replic/replican_02/head_norm"
+
+// 	"$halflambert" "1"
+}
+

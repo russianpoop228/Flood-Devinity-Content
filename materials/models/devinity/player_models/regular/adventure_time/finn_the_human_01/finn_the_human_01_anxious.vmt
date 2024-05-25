@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\adventure_time\finn_the_human_01\finn_the_human_01_anxious"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" 200
+	"$phongfresnelranges" "[1 2 5]"
+	"$lightwarptexture" "models\devinity\player_models\regular\adventure_time\finn_the_human_01\lightwarp"
+	"$phongboost" "0"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "1"				
+	"$rimlightboost" ".25"
+}

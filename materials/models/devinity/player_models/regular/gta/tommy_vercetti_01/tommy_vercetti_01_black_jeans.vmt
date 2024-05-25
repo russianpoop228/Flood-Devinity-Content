@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\gta\tommy_vercetti_01\tommy_vercetti_01"
+
+	"$color2" "{166 166 166}" 
+}

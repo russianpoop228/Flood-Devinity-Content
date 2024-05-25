@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\devinity\player_models\regular_miscellaneous\gabe_newell_01\gabe_newell_01_frame"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\player_models\regular_miscellaneous\gabe_newell_01\gabe_newell_01_frame_ref"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\devinity\props\regular_props\03_metal\clawfoot_bathtub_01\clawfoot_bathtub_01"
+
+"$blendtintbybasealpha" 1
+}

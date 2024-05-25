@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models\weapons\v_stunstick\v_stunstick_diffuse"
+	"$bumpmap" "models\Weapons\v_stunstick\v_stunstick_normal"
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong"	"1"
+	"$phongboost"	"5"
+	"$phongexponent"	"18"
+	"$phongfresnelranges"	"[.25 3 7]"
+	"$phongtint"	"[.6 .8 1]"
+
+	"$selfillum"	"1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint"	"[.125 .125 .125]"
+
+	"$rimlight"	"1"
+	"$rimlightexponent"	"69"
+	"$rimlightboost"	".2"
+
+	Proxies
+	{
+		PlayerWeaponColor
+		{
+			resultVar	$selfillumtint
+		}
+	}
+}

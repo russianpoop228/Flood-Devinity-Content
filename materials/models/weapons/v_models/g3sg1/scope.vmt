@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\G3SG1\scope_texture"
+	"$bumpmap" "models\weapons\v_models\G3SG1\scope_norm"
+
+
+}

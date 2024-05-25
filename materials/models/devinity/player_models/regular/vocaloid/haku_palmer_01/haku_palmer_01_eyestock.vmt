@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\haku_palmer_01\haku_palmer_01_head"
+	"$nodecal" 1
+	"$lightwarptexture" "models\devinity\player_models\regular\vocaloid\haku_palmer_01\toon_head"
+	"$phong" "1"
+	$ambientocclusion 0
+	$halflambert 1
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/devinity\player_models\regular\metal_gear_solid\revolver_ocelot_01\revolver_ocelot_01_belt"
+	"$alphatest" 1
+	"$nocull" 1
+}

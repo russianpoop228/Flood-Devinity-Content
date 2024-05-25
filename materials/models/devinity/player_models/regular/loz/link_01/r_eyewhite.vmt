@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\loz\link_01\r_eyewhite"
+              "$iris" "models\devinity\player_models\regular\loz\link_01\r_eyeball"
+	 "$halflambert"1 
+	"$nocull"1
+     
+	
+
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw2\diver_01\diver_01_eye"
+	"$translucent" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\far_cry_3\jason_brody_01\jason_brody_01_hair"
+
+
+$translucent 1
+	$nocull 1
+
+}

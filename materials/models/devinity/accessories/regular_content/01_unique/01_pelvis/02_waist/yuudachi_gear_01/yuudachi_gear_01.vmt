@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\01_pelvis\02_waist\yuudachi_gear_01\yuudachi_gear_01"
+	"$bumpmap" "models\devinity\accessories\regular_content\01_unique\01_pelvis\02_waist\yuudachi_gear_01\yuudachi_gear_01_normal"
+
+	"$nocull" "1"
+	"$lightwarptexture" "models\devinity\accessories\regular_content\01_unique\01_pelvis\02_waist\yuudachi_gear_01\yuudachi_gear_01_clothwarp"
+	"$phong" "1"
+	"$phongboost"	"0.05"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+}

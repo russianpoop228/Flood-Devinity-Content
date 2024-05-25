@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\friday_the_13th\jason_voorhees_01\jason_voorhees_01_bodylower"
+                 "$halflambert" "1"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongboost" "2"
+                "$phongexponent" "45"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "3"											
+	"$rimlightboost" ".25"										
+	"$rimmask" "1" 
+
+}

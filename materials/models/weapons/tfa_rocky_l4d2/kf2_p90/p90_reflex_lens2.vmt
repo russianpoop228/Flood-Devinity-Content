@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	$basetexture "models/weapons/tfa_rocky_l4d2/kf2_p90/P90_Reflex_Lens_D"
+	$translucent 1
+	$nocull "1"
+}

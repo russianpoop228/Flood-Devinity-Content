@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\brs\black_rock_shooter_01\brs_01_flame"
+
+	"$translucent" "1"
+	"$model" "1"
+
+}

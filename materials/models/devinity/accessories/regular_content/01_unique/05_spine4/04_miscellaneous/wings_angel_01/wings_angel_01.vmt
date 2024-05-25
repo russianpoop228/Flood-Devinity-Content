@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\accessories\regular_content\01_unique\05_spine4\04_miscellaneous\wings_angel_01\wings_angel_01"
+	"$halflambert"1 
+	"$alphatest"1
+	"$nocull"1
+	"$bumpmap" "models\devinity\accessories\regular_content\01_unique\05_spine4\04_miscellaneous\wings_angel_01\wings_angel_01_normal"       
+	"$phong" "1"	
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.04 0.4 1]"
+	"$phongexponenttexture" "models\devinity\accessories\regular_content\01_unique\05_spine4\04_miscellaneous\wings_angel_01\wings_angel_01_exponent"
+	"$rimlight" "1" // To enable rim lighting (requires phong) 
+	"$rimlightexponent" "1" // Exponent for phong component of rim lighting 
+	"$rimlightboost" "1" // Boost for ambient cube component of rim lighting
+}

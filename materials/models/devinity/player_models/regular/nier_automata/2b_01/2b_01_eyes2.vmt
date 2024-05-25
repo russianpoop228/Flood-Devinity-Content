@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_skin"
+	$bumpmap "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_skin_normal"
+	$translucent 1
+}

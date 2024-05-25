@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\pirates_of_the_caribbean\davy_jones_01\davy_jones_01_crab_arm"
+	"$bumpmap" "models\devinity\player_models\regular\pirates_of_the_caribbean\davy_jones_01\davy_jones_01_crab_arm_normal"
+}

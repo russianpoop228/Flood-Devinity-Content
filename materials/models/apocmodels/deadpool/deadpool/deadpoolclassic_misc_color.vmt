@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/apocmodels/Deadpool/Deadpool/DeadpoolClassic_Misc_Color"
+	"$bumpmap"				"models/apocmodels/Deadpool/Deadpool/DeadpoolClassic_Misc_Norm"
+	"$nocull"				"1"
+
+	"$phong"				"1"
+	"$PhongAlbedoTint"		"1"
+	"$phongexponenttexture"	"models/apocmodels/Deadpool/Deadpool/Deadpool_Misc_EXP2"
+	"$phongboost"			"2"
+	"$phongfresnelranges"	"[0.1 .75 4]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"1"
+}

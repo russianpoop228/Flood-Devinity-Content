@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\props\regular_props\03_metal\bridge_steel_crossover_01\bridge_steel_crossover_01"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	
+}

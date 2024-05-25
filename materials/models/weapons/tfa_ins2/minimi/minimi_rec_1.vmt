@@ -1,0 +1,16 @@
+ "VertexLitGeneric"
+{
+
+	"$basetexture" 				"models/weapons/tfa_ins2/minimi/rec_1_d"
+	"$bumpmap" 					"models/weapons/tfa_ins2/minimi/rec_1_n"
+	"$phongexponenttexture"		"models/weapons/tfa_ins2/minimi/e"
+	
+	"$phong"					"1"
+	"$phongboost"				"5"
+	"$phongexponent"			"180"
+	"$phongfresnelranges"		"[0.75 0.80 1.0]"
+	"$phongalbedotint" "1"
+
+
+	
+}

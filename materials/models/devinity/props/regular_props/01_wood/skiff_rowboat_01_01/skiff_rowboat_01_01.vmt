@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\01_wood\skiff_rowboat_01_01\skiff_rowboat_01_01"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$surfaceprop" "wood"
+
+}

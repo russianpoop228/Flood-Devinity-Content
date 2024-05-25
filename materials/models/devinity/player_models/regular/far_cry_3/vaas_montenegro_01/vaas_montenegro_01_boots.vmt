@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\devinity\player_models\regular\far_cry_3\vaas_montenegro_01\vaas_montenegro_01_boots"
+"$bumpmap" "models\devinity\player_models\regular\far_cry_3\vaas_montenegro_01\vaas_montenegro_01_boots_normal"
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models\ninja/blackops/woods/c_usa_marine_barnes_head_s"
+	"$phongexponent" "5"
+	"$phongboost"	".7"
+	"$phongfresnelranges"	"[.13 1 48]"
+
+"$rimlight" "1"									
+"$rimlightexponent" "12"								
+"$rimlightboost" "0,5"
+	"$detail" "models\devinity\player_models\regular\far_cry_3\vaas_montenegro_01\vaas_montenegro_01_leather"
+	"$detailscale" 5.283
+	"$detailblendfactor" .65
+	"$detailblendmode" 0
+}
+

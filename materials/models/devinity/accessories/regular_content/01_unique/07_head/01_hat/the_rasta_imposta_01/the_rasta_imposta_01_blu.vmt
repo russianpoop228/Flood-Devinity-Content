@@ -1,0 +1,55 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\devinity\accessories\regular_content\01_unique\07_head\01_hat\the_rasta_imposta_01\the_rasta_imposta_01_blu"
+	"$bumpmap" "effects/flat_normal" 
+//	"$detail" "effects/fireLayeredSlowTiled512.vtf"	
+//	"$detailscale" "5"
+//	"$detailblendfactor" .01
+//	"$detailblendmode" 6
+	"$yellow" "0"
+
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".3"	
+	"$lightwarptexture" "effects/pyro_lightwarp"
+	"$phongfresnelranges"	"[.1 1 8]"
+	"$basemapalphaphongmask" "1"
+
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1.2"										// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+
+
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+		"BurnLevel"
+		{
+			"resultVar" "$detailblendfactor"
+		}
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$yellow"
+			"resultVar" "$color2"
+		}
+
+	}
+}
+

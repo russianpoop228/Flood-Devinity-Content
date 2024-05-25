@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/weapons/tfa_kf2/eviscerator/Wep_1stP_SawBlade_S"
+	$color2 "[0 0 0]"
+
+	
+	$additive "1"
+}
+
+
+

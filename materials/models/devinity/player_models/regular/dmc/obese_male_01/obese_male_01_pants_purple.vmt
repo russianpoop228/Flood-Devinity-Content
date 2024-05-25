@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\dmc\obese_male_01\obese_male_01"
+	"$model" 1
+	"$color2" "{121 79 121}"
+}

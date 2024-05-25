@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\deadmau5_helmet_01\deadmau5_helmet_01_eye"
+
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"		1
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	5
+	"$phongboost" 		1
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	15
+
+	"$sss_enable"		1
+	"$sss_mask"		1
+	"$sss_color"		"[1 0 0 0.5]"
+}

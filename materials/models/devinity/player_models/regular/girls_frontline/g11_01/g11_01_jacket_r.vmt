@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\girls_frontline\g11_01\g11_01_jacket_r"
+	"$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	"5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0 0 5]"
+	"$phongexponenttexture" "models\devinity\player_models\regular\girls_frontline\g11_01\g11_01_phong_exp"
+	"$lightwarptexture" "models\devinity\player_models\regular\girls_frontline\g11_01\g11_01_toon_all"
+}

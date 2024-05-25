@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\01_wood\skiff_rowboat_03_01\skiff_rowboat_03_01"
+	"$surfaceprop" "wood"
+
+}

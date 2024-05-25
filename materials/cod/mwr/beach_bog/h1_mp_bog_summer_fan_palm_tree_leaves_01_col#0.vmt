@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"COD/MWR/Beach_Bog/h1_mp_bog_summer_fan_palm_tree_leaves_01_col#0"
+	"$bumpmap" 					"COD/MWR/Beach_Bog/h1_mp_bog_summer_fan_palm_tree_leaves_01_nml"
+$alphatest 1 
+
+
+   "$nocull"      "1" 
+
+   	$phong               1
+	$phongfresnelranges  "[1.00 1.00 1.00]"
+	$halflambert         1
+	$phongexponent       80
+	$phongboost          1 
+}

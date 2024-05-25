@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\fallout_3\power_armor_outcast_01\power_armor_outcast_01_emblem"
+	"$bumpmap" "models\devinity\player_models\regular\fallout_3\power_armor_outcast_01\power_armor_outcast_01_emblem_bump"
+
+	"$translucent" 1
+}

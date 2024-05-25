@@ -1,0 +1,13 @@
+"VertexLitGeneric" {
+	$basetexture "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_body"
+	$color2 "[1.05 1.0 1.0]"
+	$bumpmap "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_body_normal"
+
+	$phong "1"
+	$phongboost "4"
+	$phongexponent  "4"
+	$phongfresnelranges "[0.04 0.15 1.0]"
+	$phongtint "[1.0 0.95 0.95]"
+
+	$lightwarptexture "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_skin_warp"
+}

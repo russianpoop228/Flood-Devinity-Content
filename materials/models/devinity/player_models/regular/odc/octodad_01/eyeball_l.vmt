@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "models\devinity\player_models\regular\odc\octodad_01\eyeball_l"
+	"$iris" "models\devinity\player_models\regular\odc\octodad_01\eyeball_l"
+	"$halflambert" 1
+}

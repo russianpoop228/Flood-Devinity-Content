@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\07_head\01_hat\sun_hat_01\sun_hat_01"
+	"$bumpmap" "models\devinity\accessories\regular_content\01_unique\07_head\01_hat\sun_hat_01\sun_hat_01_normal"
+	"$alphatest" "1"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost"	"8"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

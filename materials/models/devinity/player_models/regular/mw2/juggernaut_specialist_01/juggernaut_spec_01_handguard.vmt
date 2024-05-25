@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw2\juggernaut_specialist_01\juggernaut_spec_01_handguard"
+	"$bumpmap" "models\devinity\player_models\regular\mw2\juggernaut_specialist_01\juggernaut_spec_01_handguard_normal"
+	"$nocull" 1
+ 	"$phong" "1"
+	"$phongexponent" "94.8"
+	"$phongboost"	"0.35"
+	"$phongfresnelranges"	"[.1 .1 1]"									
+}

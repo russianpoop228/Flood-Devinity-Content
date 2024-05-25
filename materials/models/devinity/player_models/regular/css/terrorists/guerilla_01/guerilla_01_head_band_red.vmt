@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 	"models\devinity\player_models\regular\css\terrorists\guerilla_01\guerilla_01"
+    "$bumpmap" 		"models/cstrike/t_guerilla_normal"
+	
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.05 0.1 0.5]"
+
+	"$color2" "{206 88 64}"
+}

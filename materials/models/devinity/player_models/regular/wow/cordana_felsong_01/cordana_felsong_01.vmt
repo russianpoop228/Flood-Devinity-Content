@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\wow\cordana_felsong_01\cordana_felsong_01"
+
+	$detail "models\devinity\player_models\regular\wow\cordana_felsong_01\cordana_felsong_01_emis"
+	$detailscale 1
+	$detailblendfactor "1"
+	$detailblendmode 5
+	$nocull 1
+}

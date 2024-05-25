@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\pirates_of_the_caribbean\jack_sparrow_01\jack_sparrow_01_clothing2"
+	"$bumpmap" "models\devinity\player_models\regular\pirates_of_the_caribbean\jack_sparrow_01\jack_sparrow_01_clothing2_normal"
+	"$alphatest" 1
+	"$nocull" 1
+}

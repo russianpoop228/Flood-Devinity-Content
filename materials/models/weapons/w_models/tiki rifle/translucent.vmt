@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Tiki Rifle\details_D"
+
+
+	$envmap env_cubemap	
+	
+	"$phong" "1"
+	"$phongexponenttexture" "models\weapons\v_models\Tiki Rifle\details_G"
+	"$phongboost" "10"	
+	"$phongfresnelranges"	"[0.1 1 0]"
+
+	"$rimlight" "1"	
+	"$rimlightexponent" "4"										
+	"$rimlightboost" "4"										
+
+
+}

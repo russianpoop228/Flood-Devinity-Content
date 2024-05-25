@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\kancolle\yuudachi_01\yuudachi_01_body_shorts"
+	"$bumpmap" "models\devinity\player_models\regular\kancolle\yuudachi_01\yuudachi_01_normal"
+
+	"$nocull" "1"
+	"$lightwarptexture" "models\devinity\player_models\regular\kancolle\yuudachi_01\yuudachi_01_clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+
+}

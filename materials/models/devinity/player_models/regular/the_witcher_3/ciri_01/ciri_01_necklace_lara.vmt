@@ -1,0 +1,12 @@
+"VertexLitGeneric" {
+	$basetexture "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_necklace_lara"
+	$color2 "[0.5 0.5 0.5]"
+	$bumpmap "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_necklace_lara_normal"
+	$phongexponenttexture "color/white"
+
+	$phong "1"
+	$phongboost "32"
+	$phongexponent  "8"
+	$phongfresnelranges "[0.5 0.75 1.0]"
+	$phongalbedotint "1"
+}

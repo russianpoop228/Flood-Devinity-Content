@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+ {
+	"$basetexture" "models\devinity\props\special_props\01_wood\treasure_chest_01\treasure_chest_01" 
+	"$bumpmap"	"models\devinity\props\special_props\01_wood\treasure_chest_01\treasure_chest_01_normal" 
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .750 .750 .750 ]"
+	"$envmapcontrast" "1"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$model"		"1"
+	"$halflambert"	"1"	
+
+ }

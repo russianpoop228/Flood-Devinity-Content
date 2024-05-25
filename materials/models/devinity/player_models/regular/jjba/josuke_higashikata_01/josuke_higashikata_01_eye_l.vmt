@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\devinity\player_models\regular\jjba\josuke_higashikata_01\josuke_higashikata_01_eye_l"
+	"$iris" "models\devinity\player_models\regular\jjba\josuke_higashikata_01\josuke_higashikata_01_eye_l"
+	"$halflambert" 1
+}

@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models\devinity\player_models\regular\marvel\ultron_01\ultron_01_eyes"
+	"$iris" "models\devinity\player_models\regular\marvel\ultron_01\ultron_01_pupil"
+	"$halflambert" 1
+	$lightwarptexture "models\devinity\player_models\regular\marvel\ultron_01\ultron_01_skin_warp"
+}

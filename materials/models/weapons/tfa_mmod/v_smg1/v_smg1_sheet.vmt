@@ -1,0 +1,20 @@
+"vertexlitgeneric"
+{
+
+	
+	
+
+	"$basetexture" "Models/Weapons/tfa_mmod/V_smg1/v_smg1_sheet_diff"
+	"$bumpmap" "models/weapons/tfa_mmod/v_smg1/v_smg1_sheet_normal"
+	"$selfillummask" "models/weapons/tfa_mmod/v_smg1/v_smg1_sheet_mask"
+
+	"$phong" 1
+	"$phongboost" 1
+
+	"$phongfresnelranges" "[.2 1 0]"
+	"$phongalbedotint" 1
+	"$rimlight"			"1"
+    "$rimlightexponent"			"1011"
+    "$rimlightboost"			".5"
+    "$rimmask"			"1"
+}

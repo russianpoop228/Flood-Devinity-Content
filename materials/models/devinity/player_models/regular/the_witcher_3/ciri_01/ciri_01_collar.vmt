@@ -1,0 +1,10 @@
+"VertexLitGeneric" {
+	$basetexture "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_collar"
+	$color2 "[0.9 0.9 0.9]"
+	$bumpmap "models\devinity\player_models\regular\the_witcher_3\ciri_01\ciri_01_collar_normal"
+
+	$phong "1"
+	$phongboost "7"
+	$phongexponent  "6"
+	$phongfresnelranges "[0.04 0.15 1.0]"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\03_metal\refrigerator_01\refrigerator_01"
+
+
+	"$envmaptint" "[.2 .2 .2]"
+	"$normalmapalphaenvmapmask" 1
+
+	
+}

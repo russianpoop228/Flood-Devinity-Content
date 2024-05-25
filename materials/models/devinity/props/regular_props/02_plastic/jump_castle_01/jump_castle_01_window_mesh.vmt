@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\props\regular_props\02_plastic\jump_castle_01\jump_castle_01_window_mesh"	
+	  $nocull 1
+	 $translucent 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\02_set\01_ict_vest\ict_vest_01"
+	"$bumpmap" "models\devinity\accessories\regular_content\02_set\01_ict_vest\ict_vest_01_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+
+	"$blendtintbybasealpha" 1
+}

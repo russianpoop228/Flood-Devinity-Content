@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\haku_palmer_01\haku_palmer_01_ribbon"
+	"$nodecal" 1
+	"$nocull" 1
+	"$lightwarptexture" "models\devinity\player_models\regular\vocaloid\haku_palmer_01\toon_hair"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\devinity\player_models\regular\vocaloid\haku_palmer_01\phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

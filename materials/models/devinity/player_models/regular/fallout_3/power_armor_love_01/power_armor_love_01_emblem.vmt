@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\fallout_3\power_armor_love_01\power_armor_love_01_emblem"
+
+	"$translucent" 1
+}

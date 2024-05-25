@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$basetexture "models\devinity\player_models\seasonal-event\halloween\manny_calavera_01\manny_calavera_01_bone"
+$model 1
+$halflambert 1
+
+}

@@ -1,0 +1,10 @@
+
+VertexLitGeneric
+{
+	"$baseTexture" "models\devinity\props\regular_props\02_plastic\yard_flamingo_01\yard_flamingo_01"
+	$phong 1
+	$phongexponent 10
+	$phongboost ".5"
+	$phongfresnelranges "[.7 15 20]"
+	$bumpmap "models\devinity\props\regular_props\02_plastic\yard_flamingo_01\yard_flamingo_01_normal"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\03_metal\display_cooler_01\display_cooler_01_window"
+	"$nocull" 1
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .25 .25 .25]"
+
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\jjba\dio_brando_01\dio_brando_01_eye"
+	"$bumpmap" "models\devinity\player_models\regular\jjba\dio_brando_01\dio_brando_01_normal"
+	"$halflambert" "1"
+
+	"$lightwarptexture" "models\devinity\player_models\regular\jjba\dio_brando_01\basewarp"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	".1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$phongexponenttexture" "models\devinity\player_models\regular\jjba\dio_brando_01\exponent"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "" 
+	"$rimlightboost" "1" 
+	"$rimmask" 1
+}

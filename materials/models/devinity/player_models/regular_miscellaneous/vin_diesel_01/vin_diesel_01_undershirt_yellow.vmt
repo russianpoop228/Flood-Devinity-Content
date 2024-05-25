@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular_miscellaneous\vin_diesel_01\vin_diesel_01"
+	"$bumpmap" "models\devinity\player_models\regular_miscellaneous\vin_diesel_01\vin_diesel_01_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	"1.5"
+	"$phongfresnelranges"	"[.15 .5 1]"
+
+	"$color2" "{255 207 102}" 
+}
+
+

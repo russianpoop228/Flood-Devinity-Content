@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\07_head\03_mask\pd2_mask_death_wish_01\pd2_mask_death_wish_01"
+	"$bumpmap" "models\devinity\accessories\regular_content\01_unique\07_head\03_mask\pd2_mask_death_wish_01\pd2_mask_death_wish_01_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

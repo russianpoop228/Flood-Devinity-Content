@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\resident_evil\vector_01\vector_01_gear"
+	"$bumpmap" "models\devinity\player_models\regular\resident_evil\vector_01\vector_01_gear_normal"
+	"$phong" 1
+	"$phongboost" 0.04
+	"$phongexponent" 30
+	"$phongtint" "[1 .85 .85]"
+	"$phongfresnelranges" "[.5 .85 30]"
+	"$model" 1
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "0.15"
+}

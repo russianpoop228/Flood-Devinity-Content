@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\player_models\regular_miscellaneous\bunny_01\bunny_01_black"
+	"$phong" "1"
+	"$lightwarptexture" "models\devinity\player_models\regular_miscellaneous\bunny_01\lightwarp"
+
+}

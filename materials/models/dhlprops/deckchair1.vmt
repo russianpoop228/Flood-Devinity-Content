@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+
+{
+"$basetexture" "models/dhlprops/deckchair1"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/dhlprops/deckchair1_spec"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .75 .75 .75 ]"
+}

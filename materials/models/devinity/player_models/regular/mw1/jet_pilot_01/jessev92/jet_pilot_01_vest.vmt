@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\mw1\jet_pilot_01\jessev92\jet_pilot_01_vest"
+	"$bumpmap" "models\devinity\player_models\regular\mw1\jet_pilot_01\jessev92\jet_pilot_01_vest_normal"
+}

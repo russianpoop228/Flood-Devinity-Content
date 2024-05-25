@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\devinity\player_models\seasonal-event\christmas\santa_grigori_01\santa_grigori_01_head"
+ 	"$bumpmap" "models/monk/monk_head_normal"
+	"$halflambert" 1
+}

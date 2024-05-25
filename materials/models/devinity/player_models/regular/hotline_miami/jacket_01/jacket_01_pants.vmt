@@ -1,0 +1,29 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\hotline_miami\jacket_01\jacket_01"
+	"$bumpmap" "models\devinity\player_models\regular\hotline_miami\jacket_01\jacket_01_normal"
+	$phongexponenttexture "models\devinity\player_models\regular\hotline_miami\jacket_01\Phong_008"
+
+	 $model "1"
+	"$halflambert" "0"
+	$diffuseexp 1.5
+	"$phong" "1"
+//	$phongboost "0.4"
+//	$phongexponent 12
+	$phongtint "[.85 1 .85]"
+	$phongfresnelranges "[.2 .5 5]"
+	$ambientocclusion 1
+//	$PhongAlbedoTint 1
+
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "33"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"										// Boost for ambient cube component of rim lighting
+	$rimmask 1
+
+
+	"$detail"					"models\devinity\player_models\regular\hotline_miami\jacket_01\burlap"
+	"$detailscale" "15"
+	"$detailblendfactor" "3.4"
+	"$detailblendmode" "0"
+}

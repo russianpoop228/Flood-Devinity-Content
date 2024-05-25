@@ -1,0 +1,12 @@
+"VertexLitGeneric" {
+	$basetexture "models/tfa/tw3/ciri/main/cloth_d"
+	$color2 "[0.5 0.5 0.5]"
+	$bumpmap "models/tfa/tw3/ciri/main/cloth_n"
+	$phongexponenttexture "color/white"
+
+	$phong "1"
+	$phongboost "32"
+	$phongexponent  "8"
+	$phongfresnelranges "[0.5 0.75 1.0]"
+	$phongalbedotint "1"
+}

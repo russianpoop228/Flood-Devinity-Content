@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_skin"
+	$bumpmap "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_skin_normal"
+	$halflambert 1
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.1 .1 .1]"
+}

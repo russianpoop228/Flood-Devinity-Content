@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/smashbros/lucariocolor/LucarioBody"
+	"$bumpmap" "models\smashbros/lucariocolor/flat2"
+	"$model" 1
+	"$alphatest" 1
+	"$nocull" 1
+	"$halflambert" 1
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar $color2
+			default 0.75 0.75 0.75
+		}
+	}
+}
+

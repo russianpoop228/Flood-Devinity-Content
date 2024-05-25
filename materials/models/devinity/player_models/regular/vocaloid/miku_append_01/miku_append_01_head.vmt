@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\miku_append_01_head"
+	"$bumpmap" "models\devinity\player_models\regular\vocaloid\miku_append_01\normal"
+
+	"$lightwarptexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+
+	"$baseTexture" "Models/Weapons/tfa_mmod/V_grenade/grenadetop"
+
+
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"0.2986979"
+	"$phongfresnelranges"	"[2 10 22.5]"
+
+
+
+//	"$lightwarptexture" "models\weapons\tfa_mmod\weapon_lightwarp"
+}
+

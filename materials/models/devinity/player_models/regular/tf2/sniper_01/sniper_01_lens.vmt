@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+//"Modulate"
+{
+	"$basetexture" "models\devinity\player_models\regular\tf2\sniper_01\sniper_01_lens"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" ".5"
+	"$envmaptint" " [1 .8 .4]"
+//	"$envmapmask" "models\devinity\player_models\regular\tf2\sniper_01\sniper_01_lens_specular"
+	"$translucent" 1
+//	"$additive" 1
+	"$model" "1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/snow_man_pm/snow_man_pm"
+	"$model" 1
+}

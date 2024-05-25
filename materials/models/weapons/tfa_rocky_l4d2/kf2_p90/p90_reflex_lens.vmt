@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            	"models/weapons/tfa_rocky_l4d2/kf2_p90/P90_Reflex_Lens_D"
+	$color2 "[0 0 0]"
+
+	"$phong" 			"1"
+	"$phongboost" 		"8"
+	$phongexponent		512
+	"$phongexponenttexture"   	"models/weapons/tfa_rocky_l4d2/kf2_p90/P90_Reflex_Lens_G"
+	"$phongfresnelranges" 	"[0.25 0.75 1.0]"
+	$phongalbedotint		1
+
+	"$envmap" 		"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" 		"[ 0.05 0.05 0.06 ]"
+	"$envmapfresnel"		"1"
+	
+	$additive "1"
+	$nocull "1"
+}

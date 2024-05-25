@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" 	"models/weapons/kf2/shared/lense_eo_d"
+	"$additive" 1
+
+}

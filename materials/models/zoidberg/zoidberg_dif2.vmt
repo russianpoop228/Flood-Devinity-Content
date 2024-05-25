@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/zoidberg/zoidberg_dif2"
+	"$bumpmap" "models/zoidberg/zoidbergnormalsmap"
+    "$halflambert" 1
+	"$nodecal" "1"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\devinity\props\regular_props\03_metal\boat_swan_01\boat_swan_01"
+"$blendtintbybasealpha" 1
+}

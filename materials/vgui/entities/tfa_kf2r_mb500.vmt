@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	$basetexture "vgui/entities/tfa_kf2r_mb500"
+	$ignorez "1"
+	$nocull "1"
+	$translucent "1"
+	$vertexcolor "1"
+	$vertexalpha "1"
+}

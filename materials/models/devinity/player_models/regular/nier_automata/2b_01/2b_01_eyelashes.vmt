@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_feathers"
+	$bumpmap "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_feathers_normal"
+	$alphatest 1
+	$nocull 1
+}

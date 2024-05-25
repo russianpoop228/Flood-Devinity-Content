@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\doctor_who\11th_doctor_01\11th_doctor_01"
+	"$nocull" 1
+
+	"$color2" "{50 30 30}" 
+}

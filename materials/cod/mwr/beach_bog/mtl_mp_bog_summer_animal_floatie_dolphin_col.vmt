@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"COD/MWR/Beach_Bog/mtl_mp_bog_summer_animal_floatie_dolphin_col"
+	"$bumpmap" 					"COD/MWR/Beach_Bog/mtl_mp_bog_summer_animal_floatie_dolphin_nml"
+
+
+   "$nocull"      "0" 
+
+   	$phong               1
+	$phongfresnelranges  "[1.00 1.00 1.00]"
+	$halflambert         1
+	$phongexponent       30
+	$phongboost          0.70 
+}

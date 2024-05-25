@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+"$baseTexture" "models/weapons/raygun/i_wpn_t7_zmb_raygun_power_c"
+//"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "20"
+}
+}
+}

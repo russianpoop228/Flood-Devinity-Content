@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\wow\cordana_felsong_01\cordana_felsong_01_cape"
+	$nocull 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\07_head\03_mask\toro_mask_01\toro_mask_01"
+	"$nocull" 1
+}

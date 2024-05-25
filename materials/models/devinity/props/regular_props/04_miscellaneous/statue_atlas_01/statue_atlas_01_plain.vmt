@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$baseTexture "models\devinity\props\regular_props\04_miscellaneous\statue_atlas_01\statue_atlas_01_plain"
+$bumpmap "effects/flat_normal"
+$halflambert 1
+$phong 1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[10 10 60]"
+$BASEMAPLUMINANCEPHONGMASK 1
+
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\mw2\juggernaut_specialist_01\juggernaut_spec_01_glass2"	
+              "$nocull" 1
+
+// Specularity
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\player_models\regular\mw2\juggernaut_specialist_01\juggernaut_spec_01_glass_spec"
+
+	"$translucent" 1
+	"$envmapcontrast" "1.0"
+	"$envmaptint" "[1 1 1]"
+	"$envmapsaturation" "[1 1 1]"
+}

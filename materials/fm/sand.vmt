@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "nature/sandfloor009a"
+	"$surfaceprop" "dirt"
+	"$selfillum" 0
+	"$model" 1
+	"$halflambert" 1
+}

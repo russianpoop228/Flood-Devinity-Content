@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\resident_evil\vector_01\vector_01_lens"
+
+	//"$envmap"	"env_cubemap"
+	//"$envmaptint" "[0 0.5 1]" 
+	"$envmapconstrast" "1"	
+
+	"$phong" 1
+	"$phongboost" 1
+	"$phongexponent" 30
+	//"$phongtint" "[0 .5 1]"
+	"$phongfresnelranges" "[1 1 1]"
+
+	"$model" 1
+
+	"$selfillum" 1
+	"$selfillummask" "models\devinity\player_models\regular\resident_evil\vector_01\vector_01_lens"
+
+	"$color2" "{47 95 216}"
+}

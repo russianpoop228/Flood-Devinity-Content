@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/RTBModels/Worms/Hats/Hat_Wizard_Green"
+	"$halflambert"	"1"
+}

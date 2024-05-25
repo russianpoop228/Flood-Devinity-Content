@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\player_models\regular\metal_gear_solid\pmc_01\pmc_01_cap"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

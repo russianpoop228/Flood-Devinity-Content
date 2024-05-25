@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\props\regular_props\01_wood\cliff_deck_corner_01\cliff_deck_corner_01"
+	"$surfaceprop" "wood"
+}
+

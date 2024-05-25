@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw2\riot_soldier_01\riot_soldier_01_head"
+  	"$bumpmap" "models\devinity\player_models\regular\mw2\riot_soldier_01\riot_soldier_01_head_normal"
+}

@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\mw2\riot_soldier_01\riot_soldier_01_face_shield"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\devinity\player_models\regular\mw2\riot_soldier_01\riot_soldier_01_face_shield_glass"
+
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+
+	
+	
+}
+

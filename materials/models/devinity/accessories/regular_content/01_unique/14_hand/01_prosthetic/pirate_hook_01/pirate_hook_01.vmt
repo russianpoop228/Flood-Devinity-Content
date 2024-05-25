@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\devinity\accessories\regular_content\01_unique\14_hand\01_prosthetic\pirate_hook_01\pirate_hook_01"
+	$envmapmask "models\devinity\accessories\regular_content\01_unique\14_hand\01_prosthetic\pirate_hook_01\pirate_hook_01_spec"
+}

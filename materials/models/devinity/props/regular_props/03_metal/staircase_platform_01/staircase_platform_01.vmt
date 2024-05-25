@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\03_metal\staircase_platform_01\staircase_platform_01"
+	"$surfaceprop" "metal"
+        "$envmap" "env_cubemap"
+        "$model" 1
+        "$envmapmask" "models\devinity\props\regular_props\03_metal\staircase_platform_01\staircase_platform_01_specular"
+        "$envmaptint" "[.6 .6 .6]"
+}

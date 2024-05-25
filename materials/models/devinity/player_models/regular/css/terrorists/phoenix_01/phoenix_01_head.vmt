@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\devinity\player_models\regular\css/terrorists\phoenix_01\phoenix_01_head"
+	"$halflambert" 1
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\props\special_props\01_wood\rifle_cabinet_01\rifle_cabinet_01"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\props\special_props\01_wood\rifle_cabinet_01\rifle_cabinet_01_ref"
+
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/tfa_ins2/fas2_g36c/g36c_classic"
+	"$color2" "[.8 .8 .8]"
+	// im using fas 1.0 model and texture because fas 2.0 ones are GARBAGE
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.005 .005 .005]"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"100"
+	"$phongboost" 			"1.5"
+	"$basemapalphaphongmask" 	"1"
+
+	"$halflambert"			"1"
+}

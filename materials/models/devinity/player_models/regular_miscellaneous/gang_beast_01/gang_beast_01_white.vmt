@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular_miscellaneous\gang_beast_01\gang_beast_01"
+	"$surfaceprop" "Flesh"
+	"$halflambert" "1"
+}

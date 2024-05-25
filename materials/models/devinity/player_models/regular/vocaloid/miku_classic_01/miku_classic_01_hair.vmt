@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\miku_classic_01\miku_classic_01_hair"
+	"$bumpmap" "models\devinity\player_models\regular\vocaloid\miku_classic_01\miku_classic_01_normal"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\devinity\player_models\regular\vocaloid\miku_classic_01\miku_classic_01_hairwarp"
+
+	"$phong" "1"
+	"$phongboost"	".5"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\devinity\player_models\regular\vocaloid\miku_classic_01\miku_classic_01_phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

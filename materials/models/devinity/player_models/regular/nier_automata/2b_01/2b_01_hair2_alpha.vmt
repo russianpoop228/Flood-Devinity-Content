@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\devinity\player_models\regular\nier_automata\2b_01\2b_01_hair"
+	$alphatest 1
+}

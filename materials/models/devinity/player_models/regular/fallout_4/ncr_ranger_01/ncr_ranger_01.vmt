@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\fallout_4\ncr_ranger_01\ncr_ranger_01"
+	"$bumpmap" "models\devinity\player_models\regular\fallout_4\ncr_ranger_01\ncr_ranger_01_normal"
+	"$detail" "models\devinity\player_models\regular\fallout_4\ncr_ranger_01\ncr_ranger_01_cloth"
+	"$detailscale"		"2.5"
+	"$detailblendfactor"		"1"
+	
+	$phong 1
+	$phongexponent			5			// either/or
+	$phongboost				1.0
+	$phongfresnelranges		"[0 0.5 1]"
+}

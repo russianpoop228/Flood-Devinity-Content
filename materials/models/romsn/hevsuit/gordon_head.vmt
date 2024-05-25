@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/RomSN/hevsuit/Gordon_head"
+	"$halflambert" "1"
+}

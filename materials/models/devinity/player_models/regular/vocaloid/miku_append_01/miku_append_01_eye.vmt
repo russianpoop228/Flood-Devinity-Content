@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\miku_append_01_head"
+	"$translucent" "1"
+	"$model" "1"
+}

@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\miku_append_01_tech"
+	"$model" "1"
+
+	"Proxies"
+	{
+		"PlayerHeartbeat"
+		{
+			"resultVar" "$color"
+			"min" "0.5"
+			"max" "1.35"
+			"type" "1"
+		}
+	}
+}

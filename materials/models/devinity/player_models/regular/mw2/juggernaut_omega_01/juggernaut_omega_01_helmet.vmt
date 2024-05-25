@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw2\juggernaut_omega_01\juggernaut_omega_01_helmet"
+	"$bumpmap" "models\devinity\player_models\regular\mw2\juggernaut_omega_01\juggernaut_omega_01_helmet_normal"
+ 	 "$phong" "1"
+	"$phongexponent" "94.8"
+	"$phongboost"	"0.35"
+	"$phongfresnelranges"	"[.1 .1 1]"
+	"$selfillum" "0"
+	"$selfillummask" "models\devinity\player_models\regular\mw2\[]_shared\spec_omega_01\juggernaut_omega_01_helmet_mask"
+}

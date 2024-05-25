@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\half_life\gordon_freeman_01\gordon_freeman_01_head"
+	"$halflambert" "1"
+}

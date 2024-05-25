@@ -1,0 +1,14 @@
+patch
+{
+include "materials/models/devinity/props/regular_props/04_miscellaneous/tree_urban_01/arbor_include.vmt"
+insert
+{
+$baseTexture "models\devinity\props\regular_props\04_miscellaneous\tree_urban_01\tree_urban_01_branches_mip0"
+$AlphaTest 1
+$AlphaTestReference ".3"
+$nocull 1
+$model 1
+$FlashlightNoLambert 1
+"%keywords" l4d2
+}
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\goldfish_01\goldfish_01"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\accessories\regular_content\01_unique\07_head\02_helmet\goldfish_01\goldfish_01_ref"
+
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\devinity\player_models\regular\metal_gear_solid\pmc_01\eyeball_r"
+	"$iris" "models\devinity\player_models\regular\metal_gear_solid\pmc_01\pupil_r"
+	"$halflambert" 1
+}

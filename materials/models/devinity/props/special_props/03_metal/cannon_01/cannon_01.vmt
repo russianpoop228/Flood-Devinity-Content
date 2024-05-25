@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\props\special_props\03_metal\cannon_01\cannon_01"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\props\special_props\03_metal\cannon_01\cannon_01_ref"
+
+}

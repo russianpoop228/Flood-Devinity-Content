@@ -1,0 +1,7 @@
+"eyes"
+{
+        "$basetexture" "models/smashbros/lucariocolor/eyeball_r"
+	"$iris" "models\smashbros/lucariocolor/LucarioEyeIris2r"
+	"$halflambert" 1
+}
+

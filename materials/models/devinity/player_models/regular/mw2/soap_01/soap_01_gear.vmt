@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\mw2\soap_01\soap_01_gear"
+	"$bumpmap" "models\devinity\player_models\regular\mw2\soap_01\soap_01_gear_normal"
+ 	"$phong" "1"
+	"$phongexponent" "4.8"
+	"$phongboost"	"1.05"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

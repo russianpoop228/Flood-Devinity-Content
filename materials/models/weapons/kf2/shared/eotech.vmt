@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture ""models/weapons/kf2/shared/eotech_d"
+	"$bumpmap" "models/weapons/kf2/shared/eotech_n"
+	"$phongexponenttexture" "models/weapons/kf2/shared/eotech_e"
+	
+	"$phong" "1"
+	"$phongboost" "4.5"	
+	"$phongfresnelranges"	"[0.1 0.65 1.00]"
+	"$phongalbedotint" "1"
+	
+	"$normalmapalphaenvmapmask"  "1"
+ 	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .025 .025 .025 ]"
+	"$envmapfresnel" "1"
+	
+
+	"$detailscale" "4"
+	"$detailblendmode" "2"
+	"$detailblendfactor" "0.15"
+	
+	"$nocull" 1
+}

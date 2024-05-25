@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models\devinity\props\regular_props\02_plastic\footlocker_01\footlocker_01"
+
+$color2 "{96 108 95}"
+}

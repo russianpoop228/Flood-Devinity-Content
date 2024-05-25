@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/weapons/tfa_kf2/deagle/Wep_1stP_Deagle_D"
+	$color2 "[3 3 3]"
+	$bumpmap "models/weapons/tfa_kf2/deagle/Wep_1stP_Deagle_N"
+
+	$phong "1"
+	$phongboost ".1"
+	$phongalbedotint "2"
+	$phongfresnelranges "[0.2 0.2 0.2]"
+
+}
+
+
+

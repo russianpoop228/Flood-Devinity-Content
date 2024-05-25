@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\girls_frontline\g11_01\g11_01_transparent0_mtr"
+	"$nodecal" 1
+	"$ambientocclusion" "0"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$lightwarptexture" "models\devinity\player_models\regular\girls_frontline\g11_01\g11_01_toon_head"
+}

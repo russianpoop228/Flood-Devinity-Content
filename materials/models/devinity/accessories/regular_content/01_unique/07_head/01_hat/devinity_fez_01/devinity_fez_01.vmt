@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\devinity\accessories\regular_content\01_unique\07_head\01_hat\devinity_fez_01\devinity_fez_01"
+	$blendtintbybasealpha "1"	
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\RTBModels\SmashWiiU\ToonLink\toonlink_pigeye"
+ 	"$bumpmap"				"models\RTBModels\SmashWiiU\ToonLink\toonlink_pigeye_nrm"
+	"$halflambert"			"1"
+	"$color2"				"[1.5 1.5 1.5]"
+	"$translucent"			"1"
+
+ 	"$phong"				"1"
+	"$phongboost"			"1.75"
+	"$phongexponent"		"5"
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"0.25"
+}

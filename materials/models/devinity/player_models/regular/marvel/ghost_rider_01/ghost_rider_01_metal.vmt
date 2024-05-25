@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\marvel\ghost_rider_01\ghost_rider_01_metal"
+	$envmap "env_cubemap"
+
+
+}

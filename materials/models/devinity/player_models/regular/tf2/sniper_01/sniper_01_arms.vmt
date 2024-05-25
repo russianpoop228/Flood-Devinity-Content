@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\tf2\sniper_01\sniper_01_arms"
+	"$bumpmap" "models\devinity\player_models\regular\tf2\sniper_01\sniper_01_arms_normal"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" ".15"	
+	"$lightwarptexture" "models\devinity\player_models\regular\tf2\sniper_01\pyro_lightwarp"
+	"$phongfresnelranges"	"[1 5 10]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"										// Exponent for phong component of 	rim lighting	
+	"$rimlightboost" ".3"										// Boost for ambient cube 	component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+	}
+	
+}

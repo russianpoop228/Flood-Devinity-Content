@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\smite\anubis_01\anubis_01_eye"
+
+	"$detail" "models\devinity\player_models\regular\smite\anubis_01\anubis_01_eye"
+     	 "$detailscale" "1"
+     	 "$detailblendfactor" "1.25"
+	//"$detailblendmode" "5"
+
+	"$color2" "{15 150 36}" 
+
+}

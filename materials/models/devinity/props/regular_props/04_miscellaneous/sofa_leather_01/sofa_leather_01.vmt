@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\props\regular_props\04_miscellaneous\sofa_leather_01\sofa_leather_01"
+ 	//"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\props\regular_props\04_miscellaneous\sofa_leather_01\sofa_leather_01_specular"
+        "$envmaptint" "[1 1 1]" 
+        "vertexlitgeneric_HDR_dx9" 
+        { 
+                "$envmaptint" "[.25 .25 .25]" 
+
+        } 
+}

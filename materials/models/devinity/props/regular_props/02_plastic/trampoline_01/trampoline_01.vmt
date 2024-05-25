@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\props\regular_props\02_plastic\trampoline_01\trampoline_01"
+	"$nocull" "1"
+
+
+}

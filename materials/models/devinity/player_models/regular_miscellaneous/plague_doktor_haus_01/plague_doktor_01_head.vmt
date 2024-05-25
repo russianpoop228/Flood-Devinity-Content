@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models\devinity\player_models\regular_miscellaneous\plague_doktor_haus_01\plague_doktor_01_head"
+$bumpmap "models\devinity\player_models\regular_miscellaneous\plague_doktor_haus_01\plague_doktor_01_head_normal"
+}
+

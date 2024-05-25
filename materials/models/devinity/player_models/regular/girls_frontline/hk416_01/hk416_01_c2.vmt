@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\girls_frontline\hk416_01\hk416_01_c2"
+	"$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$lightwarptexture" "models\devinity\player_models\regular\girls_frontline\hk416_01\hk416_01_toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "3"
+}

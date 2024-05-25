@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\mw1\jet_pilot_01\jessev92\jet_pilot_01_hands"
+	"$bumpmap" "models\devinity\player_models\regular\mw1\jet_pilot_01\jessev92\jet_pilot_01_hands_normal"
+	"$phong" 1
+	"$phongboost" ".5"
+	"$phongexponent" 5
+	"$phongtint" "[.85 .85 1]"
+	"$phongfresnelranges" "[.3 .65 30]"
+}

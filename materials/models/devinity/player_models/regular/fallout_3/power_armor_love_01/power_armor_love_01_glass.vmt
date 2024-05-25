@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\fallout_3\power_armor_love_01\power_armor_love_01_glass"
+	"$bumpmap" "models\devinity\player_models\regular\fallout_3\power_armor_love_01\power_armor_love_01_helmet_bump"
+
+	"$selfillum" 1
+
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapmask" "models\devinity\player_models\regular\fallout_3\power_armor_love_01\power_armor_love_01_helmet_mask"
+	"$envmaptint" "[.85 .95 1]" 
+	"$envmapcontrast" .86
+	"$envmapsaturation" 1
+}
+

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\03_metal\weight_1_ton_01\weight_1_ton_01"
+	"$bumpmap" "models\devinity\props\regular_props\03_metal\weight_1_ton_01\weight_1_ton_01_normal"
+	"$blendtintbybasealpha" 1
+}
+
+
+

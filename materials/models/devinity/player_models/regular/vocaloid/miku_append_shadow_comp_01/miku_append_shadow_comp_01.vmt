@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\miku_append_shadow_comp_01\miku_append_shadow_comp_01"
+//	"$bumpmap" "models\devinity\player_models\regular\vocaloid\miku_append_shadow_comp_01\miku_append_shadow_comp_01_normal"
+	"$nodecal" "1"
+
+	"$cloakpassenabled" "1"
+	"$cloakfactor" "0.9"
+	"$cloakcolortint" "[0 0 0]"
+	"$refractamount" "0"
+}

@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\warhammer_40k\blood_raven_01\blood_raven_01_helmet"
+	"$bumpmap" "models\devinity\player_models\regular\warhammer_40k\blood_raven_01\blood_raven_01_helmet_norm"
+
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.25"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight" "1"											
+	"$rimlightexponent" "4"										
+	"$rimlightboost" ".25"	
+
+	"$detail" "models\devinity\player_models\regular\warhammer_40k\blood_raven_01\blood_raven_01_helmet_g"
+	"$detailscale" "1"
+	//"$detailblendfactor" "2"
+	"$detailblendmode" "1"
+
+	"$selfillum" 1
+	"$selfillummask" "models\devinity\player_models\regular\warhammer_40k\blood_raven_01\blood_raven_01_helmet_g"
+
+	"$color2" "{12 255 0}"
+}
+

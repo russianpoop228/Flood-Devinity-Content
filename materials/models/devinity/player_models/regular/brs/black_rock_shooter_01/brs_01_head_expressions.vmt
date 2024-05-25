@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\brs\black_rock_shooter_01\brs_01_head_expressions"
+	"$bumpmap" "models\devinity\player_models\regular\brs\black_rock_shooter_01\normal"
+
+	"$lightwarptexture" "models\devinity\player_models\regular\brs\black_rock_shooter_01\clothwarp"
+	"$alphatest" "1"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+
+}

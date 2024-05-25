@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	$baseTexture "models\devinity\player_models\regular\mass_effect\turian_sentinel_01\turian_sentinel_01_exponent"
+	$selfillum 1
+}

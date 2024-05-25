@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\far_cry_3\jason_brody_01\jason_brody_01_arm_tattoo"
+                "$bumpmap"    "models\devinity\player_models\regular\far_cry_3\jason_brody_01\jason_brody_01_arm_normal"
+	"$phong" "1"
+//	"$phongexponenttexture" "models\ninja/blackops/woods/c_usa_marine_barnes_head_s"
+	"$phongexponent" "5"
+	"$phongboost"	".45"
+	"$phongfresnelranges"	"[.3 1 48]"	
+	$detail "models\devinity\player_models\regular\far_cry_3\jason_brody_01\jason_brody_01_detail"
+	$detailscale 16
+	$detailblendfactor 1.7
+	$detailblendmode 0
+}

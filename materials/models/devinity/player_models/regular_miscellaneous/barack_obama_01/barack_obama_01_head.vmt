@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular_miscellaneous\barack_obama_01\barack_obama_01_head"
+	"$bumpmap" "models\devinity\player_models\regular_miscellaneous\barack_obama_01\barack_obama_01_head_normal"
+	"$phong" 1
+	"$phongexponent"			1
+	"$phongexponenttexture" ""
+	"$phongboost"				5.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$normalmapalphaenvmapmask"	1
+}
+

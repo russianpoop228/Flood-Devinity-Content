@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\half_life\hev_suit_01\hev_suit_01_helmet_visor_silver2"
+	"$surfaceprop" "plastic"
+
+	//"$translucent" 1
+	"nocull" 1
+}

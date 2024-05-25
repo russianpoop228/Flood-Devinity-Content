@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/weapons/tfa_kf2/deagle/Wep_3rdP_Deagle_D"
+	$color2 "[2 2 2]"
+
+
+	
+	$phong "1"
+	$phongboost "2"
+	$phongalbedotint "1"
+	$phongfresnelranges "[0.5 0.75 1.0]"
+	
+	$envmap "env_cubemap"
+	$envmaptint "[0.3 0.3 0.3]"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+}
+
+
+

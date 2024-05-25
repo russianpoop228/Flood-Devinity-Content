@@ -1,0 +1,11 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\devinity\accessories\regular_content\02_set\02_karuta-gane\09_calf\suneate_01\suneate_01"
+	"$surfaceprop" "carpet"
+	"$bumpmap" "models\devinity\accessories\regular_content\02_set\02_karuta-gane\09_calf\suneate_01\suneate_01_normal" 
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[1 2 6]"
+	"$phongexponenttexture" "models\devinity\accessories\regular_content\02_set\02_karuta-gane\09_calf\suneate_01\suneate_01_exp"
+}

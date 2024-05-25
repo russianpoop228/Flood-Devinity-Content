@@ -1,0 +1,5 @@
+"UnLitGeneric"
+{
+	$baseTexture "models\devinity\player_models\regular\mass_effect\geth_infiltrator_01\geth_infiltrator_01_exponent"
+	$selfillum 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\fallout_3\alien_01\alien_01_hs"
+
+	"$translucent" 1
+
+}

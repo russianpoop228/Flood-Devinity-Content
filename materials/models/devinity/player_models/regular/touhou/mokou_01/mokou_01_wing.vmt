@@ -1,0 +1,34 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\devinity\player_models\regular\touhou\mokou_01\mokou_01_wing"
+
+	"$phong" "1"
+	"$phongboost"	"10"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\devinity\player_models\regular\touhou\mokou_01\phong_exp"
+	"$phongfresnelranges"	"[.1 .1 4]"
+	"$translucent" "1"	
+
+	"$lightwarptexture" "models\devinity\player_models\regular\touhou\mokou_01\face_shader"
+
+	"$halflambert" "1"	
+	"$AmbientOcclusion" "0"	
+	"$nocull" "1"
+	"$nodecal" "1"
+	// "$model" "1"
+	// "$selfillum" "1"
+	"$additive" "1"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "4"
+	"$emissiveBlendEnabled" 0
+	"$emissiveBlendTexture"     "models\devinity\player_models\regular\touhou\mokou_01\null"
+	"$emissiveBlendBaseTexture"	"models\devinity\player_models\regular\touhou\mokou_01\mokou_flame"
+	"$emissiveBlendFlowTexture"  "models\devinity\player_models\regular\touhou\mokou_01\null"
+	"$emissiveBlendTint" "[1.0 1.0 1.0]"
+	"$emissiveBlendStrength" 0.75
+	"$emissiveBlendScrollVector" "[0 0]"
+
+}

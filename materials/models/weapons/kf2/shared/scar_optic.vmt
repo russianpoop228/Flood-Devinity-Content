@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" 	"models/weapons/kf2/shared/lense_scar_d"
+	"$translucent" 0
+	"$additive" 1
+
+}

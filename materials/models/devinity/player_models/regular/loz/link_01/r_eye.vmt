@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\player_models\regular\loz\link_01\r_eye"
+               "$halflambert"1 
+	"$nocull"1
+	"$alphatest"1
+   
+	
+
+	
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\04_miscellaneous\hay_bale_target_01\hay_bale_target_01"
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+}

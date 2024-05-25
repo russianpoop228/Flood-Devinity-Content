@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\devinity\accessories\regular_content\01_unique\11_clavicle\01_familiar\archimedes_01\archimedes_01"
+	"$surfaceprop"	"default"
+	"$basemapalphaphongmask" 1
+	//phong properties
+	"$phong"	"1"
+	"$phongboost"	"3"
+	"$phongexponent"	"30"
+	"$phongfresnelranges"	"[.5 1 2]"
+	
+}

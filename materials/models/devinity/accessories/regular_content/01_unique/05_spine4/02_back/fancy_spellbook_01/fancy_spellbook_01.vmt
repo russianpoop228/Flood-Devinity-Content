@@ -1,0 +1,41 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\05_spine4\02_back\fancy_spellbook_01\fancy_spellbook_01"
+	"$bumpmap" "effects/bombonomicon_normal"
+	"$selfillum" 1
+	"$phongexponenttexture" "models\devinity\accessories\regular_content\01_unique\01_pelvis\02_waist\fancy_spellbook_01\fancy_spellbook_01_exp"
+	"$basemapalphaphongmask" "1"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "2"	
+	"$lightwarptexture" "effects\pyro_lightwarp"
+	"$phongfresnelranges"	"[.3 .5 .6]"
+	"$halflambert" "1"
+
+	"$glowcolor" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"										// Boost for ambient cube component of rim lighting
+	"$rimmask" "1"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+}

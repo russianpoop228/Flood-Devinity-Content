@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\seasonal-event\christmas\jack_skellington_santa_01\jack_skellington_santa_01_head"
+	"$alphatest" 1
+	"$nocull" 1
+}

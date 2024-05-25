@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\accessories\regular_content\01_unique\07_head\01_hat\top_hat_gmod_tower_01\top_hat_gmod_tower_01"
+	"$nocull" 1
+}

@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+	"$basetexture"            "models\devinity\props\regular_props\03_metal\lockers_open_01\lockers_open_01"
+	"$blendtintbybasealpha"   "1"
+	"$detail"                 "models\devinity\props\regular_props\03_metal\lockers_open_01\metal_crate_001_detail"
+	"$detailscale"            "[2 4]"
+	"$detailblendfactor"      ".4"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0 1]"
+	"$envmapmask"             "models\devinity\props\regular_props\03_metal\lockers_open_01\lockers_open_01"
+	"$envmap"                 "models\devinity\props\regular_props\03_metal\lockers_open_01\metal_generic_002"
+	"$surfaceprop"            "metal"
+}

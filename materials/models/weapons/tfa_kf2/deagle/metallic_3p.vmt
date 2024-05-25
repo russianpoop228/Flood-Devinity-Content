@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+
+	$color2 "[0 0 0]"
+
+
+	
+	$phong "1"
+	$phongboost "16"
+	$phongalbedotint "1"
+	$phongfresnelranges "[0.20 0.70 1.0]"
+	
+	$rimlight "1"
+	$rimlightboost "1"
+	$rimlightexponent "4"	
+	
+	$additive "1"
+}
+
+
+

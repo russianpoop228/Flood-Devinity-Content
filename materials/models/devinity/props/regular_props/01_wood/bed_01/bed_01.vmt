@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\devinity\props\regular_props\01_wood\bed_01\bed_01"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\devinity\player_models\regular\css\terrorists\guerilla_01\guerilla_01_head"
+	"$halflambert" 1
+}
+
+

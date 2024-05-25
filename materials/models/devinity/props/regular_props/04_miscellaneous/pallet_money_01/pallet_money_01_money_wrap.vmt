@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\devinity\props\regular_props\04_miscellaneous\pallet_money_01\pallet_money_01_money_wrap"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\props\regular_props\04_miscellaneous\pallet_money_01\pallet_money_01_money_wrap_ref"
+
+
+}

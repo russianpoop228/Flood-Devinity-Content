@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models\devinity\accessories\regular_content\01_unique\11_clavicle\01_familiar\annoying_dog_01\annoying_dog_01"
+	$phongexponenttexture "models\devinity\accessories\regular_content\01_unique\11_clavicle\01_familiar\annoying_dog_01\annoying_dog_01_phong"
+	$bumpmap "models\devinity\accessories\regular_content\01_unique\11_clavicle\01_familiar\annoying_dog_01\annoying_dog_01_normal"
+
+
+	 $phong "1"
+	 $phongboost  "10"
+	 $phoneexponent "5"
+	 $phongfresnelranges "[0 0.5 1]"
+}

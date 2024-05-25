@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	 "models\devinity\props\regular_props\02_plastic\devinity_logo_d_01\drpitlazarus\devinity_logo_d_01_grey"
+	"$blendtintbybasealpha" 1
+}

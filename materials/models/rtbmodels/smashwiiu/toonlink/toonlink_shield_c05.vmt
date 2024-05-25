@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\RTBModels\SmashWiiU\ToonLink\toonlink_shield_c05"
+ 	"$bumpmap"				"models\RTBModels\SmashWiiU\ToonLink\toonlink_shield_nrm"
+	"$halflambert"			"1"
+	"$color2"				"[1.5 1.5 1.5]"
+
+ 	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongboost"			"25"
+	"$phongexponenttexture"	"models\RTBModels\SmashWiiU\albedotint"
+	"$phongexponent"		"15"
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"0.25"
+}

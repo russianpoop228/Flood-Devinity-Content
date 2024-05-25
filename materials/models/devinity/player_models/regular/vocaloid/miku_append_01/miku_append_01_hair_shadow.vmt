@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\miku_append_01_head"
+	"$bumpmap" "models\devinity\player_models\regular\vocaloid\miku_append_01\normal"
+
+	"$lightwarptexture" "models\devinity\player_models\regular\vocaloid\miku_append_01\facewarp"
+	"$translucent" "1"
+}

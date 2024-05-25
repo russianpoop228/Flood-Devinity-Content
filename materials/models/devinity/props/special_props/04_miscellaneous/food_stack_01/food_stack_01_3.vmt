@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\devinity\props\special_props\04_miscellaneous\food_stack_01\food_stack_01_3"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\devinity\props\special_props\04_miscellaneous\food_stack_01\food_stack_01_3_ref"
+}

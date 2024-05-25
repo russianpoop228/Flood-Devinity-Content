@@ -1,0 +1,20 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\devinity\props\regular_props\02_plastic\riot_shield_01\riot_shield_01"
+	"$bumpmap" "models\devinity\props\regular_props\02_plastic\riot_shield_01\riot_shield_01_normal"
+
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.5 1 2]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "10"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.05"
+		
+}
+

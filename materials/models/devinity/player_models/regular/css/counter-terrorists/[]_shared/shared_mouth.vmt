@@ -1,0 +1,8 @@
+"Teeth"
+{
+	"$baseTexture" "models\devinity\player_models\regular\css\counter-terrorists\[]_shared\shared_face"
+	"$bumpmap" "models\devinity\player_models\regular\css\counter-terrorists\[]_shared\shared_face_normal"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

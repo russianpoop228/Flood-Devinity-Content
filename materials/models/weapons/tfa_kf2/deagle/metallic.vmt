@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/weapons/tfa_kf2/deagle/Wep_1stP_Deagle_S"
+	$color2 "[.2 .2 .2]"
+
+
+	
+	$additive "1"
+}
+
+
+

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/onepiece/robinhat/robinhat"
+	"$translucent" 0
+}

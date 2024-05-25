@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\devinity\player_models\regular\fallout_3\alien_01\alien_01"
+
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

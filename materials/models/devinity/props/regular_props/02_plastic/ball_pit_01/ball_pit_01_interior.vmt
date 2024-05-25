@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\devinity\props\regular_props\02_plastic\ball_pit_01\ball_pit_01_interior"
+	"$bumpmap" "models\devinity\props\regular_props\02_plastic\ball_pit_01\ball_pit_01_interior_normal"
+	"$surfaceprop" "plastic"
+	"$model" 1
+                "$halflambert" 1
+
+	$phong 1
+	$phongexponent 25
+	$phongboost	10
+//	$phongfresnelranges	"[0.05 0.5 1]"
+	$phongfresnelranges		"[0 0.5 1]"
+	
+}
+

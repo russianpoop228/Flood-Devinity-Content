@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\MW2\RiotShield\riot_shield"
+	"$bumpmap" "models\MW2\RiotShield\riot_shield_n"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.5 1 2]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "10"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.05"
+		
+}
+
