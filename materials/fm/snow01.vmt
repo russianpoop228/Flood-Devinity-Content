@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "fm/snow01"
+	"$surfaceprop" "snow"
+	"$selfillum" 0
+	"$model" 1
+	"$halflambert" 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+
+
+	 $nocull "1"
+	 $color2 "{255.0 255.0 255.0}"
+}

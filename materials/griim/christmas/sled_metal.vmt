@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+
+$envmap env_cubemap
+$envmaptint "[0.6 0.6 0.6]"
+
+ $color2 "{127.0 127.0 127.0}"
+
+$detail detail\metal_detail_01
+$detailscale 4.283
+$detailblendfactor .65
+$detailblendmode 0
+
+}
